@@ -61,14 +61,14 @@ footer a {
 
 .joinBtn,
 .leaveBtn {
-    background: #4aed88;
+    background: #4aedbc;
     width: 100px;
     margin-left: auto;
 }
 
 .joinBtn:hover,
 .leaveBtn:hover {
-    background: #2b824c;
+    background: #2b2f82;
 }
 
 .createInfo {
@@ -77,7 +77,7 @@ footer a {
 }
 
 .createNewBtn {
-    color: #4aed88;
+    color: #6bed4a;
     text-decoration: none;
     border-bottom: 1px solid #4aed88;
     transition: all 0.3s ease-in-out;
